@@ -1,4 +1,5 @@
 
+import Background from './components/Background/Background'
 import Footer from './components/Footer/Footer'
 import Info from './components/Info/Info'
 import Project from './components/Project/Project'
@@ -9,6 +10,7 @@ function App() {
   return (
     <>
       <div className="lg:px-[20%] md:px-[15%] pb-[5%] sm:px-[10%] xs:px-[5%] px-[5%]  z-8">
+        <Background/>
         <Info/>
         <SocialItem />
         <Project/>
