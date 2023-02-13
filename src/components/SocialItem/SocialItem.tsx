@@ -4,8 +4,8 @@ import { Icon } from '@iconify/react'
 const contacts = [
     { 
       icon: 'akar-icons:github-fill', 
-      text: 'lalalavard',
-      link: 'https://github.com/lalalavard',
+      text: 'keqing',
+      link: 'https://github.com/keqing77',
       color: 'hover:bg-[#374151]' },
     {
       icon: 'akar-icons:twitter-fill',
@@ -22,14 +22,14 @@ const contacts = [
     {
       icon: 'bx:book-bookmark',
       text: 'Blog',
-      link: 'https://lavard.cn',
+      link: 'https://keqingblog.netlify.app/',
       color: 'hover:bg-[#3681e6]',
       desc: 'Blog'
     },
     {
       icon: 'ant-design:zhihu-circle-filled',
       text: 'MurphyChen',
-      link: 'https://www.zhihu.com/people/mphyc',
+      link: 'https://www.zhihu.com',
       color: 'hover:bg-[#056de8]'
     },
     {
