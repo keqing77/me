@@ -7,7 +7,7 @@ const Info = () => {
         <div className="mt-20 title-color font-[Cute] font-400 ease_dura">
           <h1 className="text-5xl">Hello, there 👏🏻</h1>
           <h2 className="text-4xl mt-4">
-            I'm lalalavard.
+            I'm keqing.
           </h2>
         </div>
         <div className="mt-4 title-color list-none lh-10 text-lg font-extralight font-[Cute] ease_dura">
