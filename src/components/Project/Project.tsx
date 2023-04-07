@@ -3,13 +3,6 @@ import { Icon } from '@iconify/react';
 
 const projects = [
   {
-    title: 'Front end treasure',
-    description: 'The best note for frond end interview',
-    link: 'https://fe-treausre.netlify.app/',
-    logo: 'twemoji:dog',
-    tags: ['vue3', 'vitepress']
-  },
-  {
     title: 'one last image',
     description: 'A eva picture generator',
     link: 'https://lab.magiconch.com/one-last-image/',
@@ -26,7 +19,7 @@ const projects = [
   {
     title: 'My Blog',
     description: 'Just for record',
-    link: 'https://www.lavard.cn',
+    link: 'keqingblog.netlify.app',
     logo: 'twemoji:man-technologist-medium-skin-tone',
     tags: ['react', 'tailwindcss']
   }
