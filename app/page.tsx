@@ -9,7 +9,7 @@ export default function IndexPage() {
       <div className="flex max-w-[980px] flex-col items-start gap-2">
         <h1 className="text-3xl font-extrabold leading-tight tracking-tighter sm:text-3xl md:text-5xl lg:text-6xl">
           Beautifully designed components <br className="hidden sm:inline" />
-          built with Radix UI and Tailwind CSS.
+          built with Next.js 13 and Shadcn/ui.
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground sm:text-xl">
           Accessible and customizable components that you can copy and paste
@@ -18,12 +18,12 @@ export default function IndexPage() {
       </div>
       <div className="flex gap-4">
         <Link
-          href={siteConfig.links.docs}
+          href={siteConfig.links.code}
           target="_blank"
           rel="noreferrer"
           className={buttonVariants({ size: "lg" })}
         >
-          Documentation
+          Source Code
         </Link>
         <Link
           target="_blank"

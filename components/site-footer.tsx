@@ -15,11 +15,11 @@ export function SiteFooter() {
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
             >
-              shadcn
+              keqing77
             </a>
             . The source code is available on{" "}
             <a
-              href={siteConfig.links.github}
+              href={siteConfig.links.code}
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
