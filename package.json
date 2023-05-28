@@ -2,7 +2,9 @@
   "name": "me",
   "version": "1.0.0",
   "description": "introduce myself",
-  "main": "index.js",
+  "type": "module",
+  "author": "keqing77",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "dev:turbo": "next dev --turbo",
@@ -10,8 +12,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": "keqing77",
-  "license": "MIT",
   "dependencies": {
     "class-variance-authority": "^0.6.0",
     "clsx": "^1.2.1",
