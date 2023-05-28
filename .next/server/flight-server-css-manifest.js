@@ -1,0 +1,16 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/weibin-kang-rea/Personal/openSource/me/app/layout.tsx": [
+      "/Users/weibin-kang-rea/Personal/openSource/me/styles/globals.css",
+      "/Users/weibin-kang-rea/Personal/openSource/me/node_modules/.pnpm/next@13.4.4_react-dom@18.2.0_react@18.2.0/node_modules/next/font/google/target.css?{\"path\":\"lib/font.ts\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-sans\"}],\"variableName\":\"fontSans\"}",
+      "/Users/weibin-kang-rea/Personal/openSource/me/node_modules/.pnpm/next@13.4.4_react-dom@18.2.0_react@18.2.0/node_modules/next/font/google/target.css?{\"path\":\"lib/font.ts\",\"import\":\"JetBrains_Mono\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-mono\"}],\"variableName\":\"fontMono\"}"
+    ]
+  },
+  "cssModules": {
+    "/Users/weibin-kang-rea/Personal/openSource/me/app/page": [
+      "/Users/weibin-kang-rea/Personal/openSource/me/styles/globals.css",
+      "/Users/weibin-kang-rea/Personal/openSource/me/node_modules/.pnpm/next@13.4.4_react-dom@18.2.0_react@18.2.0/node_modules/next/font/google/target.css?{\"path\":\"lib/font.ts\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-sans\"}],\"variableName\":\"fontSans\"}",
+      "/Users/weibin-kang-rea/Personal/openSource/me/node_modules/.pnpm/next@13.4.4_react-dom@18.2.0_react@18.2.0/node_modules/next/font/google/target.css?{\"path\":\"lib/font.ts\",\"import\":\"JetBrains_Mono\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-mono\"}],\"variableName\":\"fontMono\"}"
+    ]
+  }
+}

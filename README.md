@@ -33,17 +33,17 @@
 ### 安装
 
 ```bash
-# 克隆项目
-git clone `repoUrl`
-
 # 安装依赖
-npm install # or  pnpm i
+pnpm i
 
-# 启动服务
-npm run dev
+# 启动
+pnpm dev
 
-# 打包构建
-npm run build
+# 构建
+pnpm build
+
+# 部署
+通过 Vercel 部署
 ```
 
 ## 贡献者
@@ -61,10 +61,6 @@ npm run build
 ## 维护者
 
 - [lavard](https://github.com/keqing77)
-
-## 鸣谢
-
-- [Murphy Chen](https://github.com/Hacker-C)
 
 ## 协议
 
