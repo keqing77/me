@@ -60,7 +60,7 @@ pnpm build
 
 ## 维护者
 
-- [lavard](https://github.com/keqing77)
+- [keqing](https://github.com/keqing77)
 
 ## 协议
 

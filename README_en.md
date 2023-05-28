@@ -59,7 +59,7 @@ Deploy by vercel / netify
 
 ## Maintainers
 
-- [lavard](https://github.com/keqing77)
+- [keqing](https://github.com/keqing77)
 
 ## Liscenses
 
