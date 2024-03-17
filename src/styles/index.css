@@ -1,0 +1,20 @@
+html {
+  /*图片模糊背景＋黑色透明卡片+白色svg**/
+  --svgcolor: #ffffff;
+  --main-bg-color: url(background3.png);
+  --main-text-color: #eeeeee;
+  --gradient-start: #bd34fe;
+  --gradient-middle: #e0321b;
+  --gradient-end: #41d1ff;
+  --purple-text-color: #747bff;
+  --text-bg-color: #00000040;
+  --item-bg-color: #00000038;
+  --item-hover-color: #33333338;
+  --item-left-title-color: #ffffff;
+  --item-left-text-color: #ffffff;
+  --footer-text-color: #ffffff;
+  --left-tag-item: rgb(27 42 57 / 20%);
+  --card-filter: 0px;
+  --back-filter: 20px;
+  --back-filter-color: #00000030;
+}
