@@ -22,15 +22,15 @@ export const Project = () => {
 
 const data = [
   {
-    name: "Project1",
-    url: "https://www.google.com",
-    description: "amazing project",
+    name: "To be done",
+    url: "https://github.com/keqing77/fe_interview/issues",
+    description: "Waiting for the project to be done",
     icon: "https://www.google.com",
   },
   {
-    name: "Project2",
-    url: "https://www.google.com",
-    description: "amazing project",
+    name: "To be done",
+    url: "https://github.com/keqing77/fe_interview/issues",
+    description: "I have no idea",
     icon: "https://www.google.com",
   },
 ];

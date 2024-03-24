@@ -22,21 +22,21 @@ export const Website = () => {
 
 const data = [
   {
-    name: "Homepage",
-    url: "https://www.google.com",
+    name: "Bento",
+    url: "https://bento.me/keqing",
     description: "My bento page",
     icon: "https://bento.me/keqing",
   },
   {
     name: "Blog",
     url: "https://keqingblog.netlify.app/",
-    description: "keqing77's blog",
+    description: "Personal blog",
     icon: "https://keqingblog.netlify.app/",
   },
   {
     name: "fe-interview",
     url: "https://fe-interview.zeabur.app/",
-    description: "fe-interview notes",
+    description: "My fe-interview notes",
     icon: "https://fe-interview.zeabur.app/",
   },
 ];
