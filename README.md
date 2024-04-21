@@ -29,6 +29,8 @@ Link: [https://keqing.zeabur.app/](https://keqing.zeabur.app/)
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<!-- Made with https://platane.me/snk/ -->
+
 ## Todo
 
 - Snake Contribution & github actions
