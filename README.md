@@ -16,6 +16,6 @@
 
 ## Preview
 
-Link: [https://fe-interview.zeabur.app/](https://fe-interview.zeabur.app/)
+Link: [https://keqing.zeabur.app/](https://keqing.zeabur.app/)
 
   <img  src="src/assets/preview.png" alt="preview" />
