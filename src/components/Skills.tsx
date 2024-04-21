@@ -27,18 +27,3 @@ export const Skills = () => {
     </>
   );
 };
-
-// const skills = [
-//   {
-//     name: "React",
-//     comp: <ReactIcon />,
-//   },
-//   {
-//     name: "Vue",
-//     comp: <VueIcon />,
-//   },
-//   {
-//     name: "AWS",
-//     comp: <AWSIcon />,
-//   },
-// ];

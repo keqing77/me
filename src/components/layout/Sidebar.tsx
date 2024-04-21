@@ -19,7 +19,7 @@ const Job = () => {
     },
     {
       icon: "  ",
-      text: "Genshin Impact",
+      text: "HSBC",
     },
   ];
   return (
@@ -56,8 +56,8 @@ const Tag = () => {
 const TimeLine = () => {
   const jobs = [
     {
-      time: "2024-3-25",
-      company: "Genshin Impact",
+      time: "2024-4-10",
+      company: "HSBC",
     },
     {
       time: "2022-12-16",

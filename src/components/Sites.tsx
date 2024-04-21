@@ -23,7 +23,7 @@ export const Sites = (data: SitesProps) => {
       <div className=" flex-1 px-2">
         <img
           className="w-24 h-24 rounded-full overflow-hidden"
-          src="pojo.jpg"
+          src={data.icon ? data.icon : "pojo.jpg"}
           alt="image"
         />
       </div>

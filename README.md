@@ -19,3 +19,10 @@
 Link: [https://keqing.zeabur.app/](https://keqing.zeabur.app/)
 
   <img  src="src/assets/preview.png" alt="preview" />
+
+
+## Todo
+
+- Snake Contribution & github actions
+- Responsive Design
+- https://contrib.rocks/

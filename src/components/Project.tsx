@@ -1,14 +1,18 @@
+import { useId } from "react";
+import { projects } from "../constants";
 import { Sites } from "./Sites";
 import { Title } from "./Title";
 
 export const Project = () => {
+  const id = useId();
+
   return (
     <>
       <Title name="Project" />
       <div className="flex flex-row gap-4">
-        {data.map((site, index) => (
+        {projects.map((site) => (
           <Sites
-            key={index}
+            key={id + site.name}
             name={site.name}
             url={site.url}
             description={site.description}
@@ -19,18 +23,3 @@ export const Project = () => {
     </>
   );
 };
-
-const data = [
-  {
-    name: "To be done",
-    url: "https://github.com/keqing77/fe_interview/issues",
-    description: "Waiting for the project to be done",
-    icon: "https://www.google.com",
-  },
-  {
-    name: "To be done",
-    url: "https://github.com/keqing77/fe_interview/issues",
-    description: "I have no idea",
-    icon: "https://www.google.com",
-  },
-];
