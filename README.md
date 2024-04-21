@@ -18,11 +18,26 @@
 
 Link: [https://keqing.zeabur.app/](https://keqing.zeabur.app/)
 
-  <img  src="src/assets/preview.png" alt="preview" />
+<img  src="src/assets/preview.png" alt="preview" />
 
+
+## Test
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## Todo
 
 - Snake Contribution & github actions
 - Responsive Design
-- https://contrib.rocks/
+
+## Contributors
+
+<a href="https://github.com/keqing77/me/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=keqing77/me" />
+</a>
+
+<!-- Made with https://contrib.rocks/ -->
