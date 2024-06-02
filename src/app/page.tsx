@@ -15,8 +15,7 @@ export default function Home() {
       <div className="absolute inset-0 bg-white/15 backdrop-blur backdrop-filter"></div>
       <main
         className="relative z-10 flex min-h-screen flex-col
-    md:flex-row md:p-24
-    items-center p-8"
+   items-center"
       >
         <BasicAvatar />
         <Info />
